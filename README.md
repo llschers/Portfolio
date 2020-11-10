@@ -2,7 +2,7 @@
 A portfolio of my work.
 
 These files are examples of projects I have completed for my Data Science Master's degree through Indiana University.
-My resume can be found [here](https://github.iu.edu/llschers/Portfolio/blob/master/LeahScherschelResume10Sep2020.pdf).
+My resume can be found [here](https://github.com/llschers/Portfolio/blob/master/LeahScherschelResume10Sep2020.pdf).
 
 ## Course Work
 ### I535 Big Data Project B Report.pdf: 
@@ -17,18 +17,18 @@ A Python program I wrote for the course Elements of Artificial Intelligence. It 
 ## Data Visualization Client Project
 ### GephiNetwork.png: 
 A snapshot of a visualization made in Gephi for Indiana University Bloomington's (IUB's) Environmental Resilience Institute (ERI). 
-![GephiNetwork](https://github.iu.edu/llschers/Portfolio/blob/master/GephiNetwork.png)
+![GephiNetwork](https://github.com/llschers/Portfolio/blob/master/GephiNetwork.png)
 
 ### wordCloudScript.R: 
 An R script file I wrote to create the word cloud image for IUB's ERI.
 
 ### RScriptWordCloud.png: 
 A word cloud visualization I developed for IUB's ERI to showcase the diverse background of its affiliates.
-![RScriptWordCloud](https://github.iu.edu/llschers/Portfolio/blob/master/RScriptWordCloud.png)
+![RScriptWordCloud](https://github.com/llschers/Portfolio/blob/master/RScriptWordCloud.png)
 
 ### SnapshotOfInteractiveFlourishNetwork.png: 
 A still shot of a network visualization I developed for IUB's ERI to illustrate collaboration between its affiliates. 
-![InteractiveFlourishNetwork](https://github.iu.edu/llschers/Portfolio/blob/master/SnapshotOfInteractiveFlourishNetwork.png)
+![InteractiveFlourishNetwork](https://github.com/llschers/Portfolio/blob/master/SnapshotOfInteractiveFlourishNetwork.png)
 The interactive visualization can be accessed here: https://public.flourish.studio/visualisation/1693596/
 
 ## Capstone Project
@@ -37,20 +37,20 @@ My final capstone project report, which was completed under the mentorship of Ka
 
 ### Visualization of Mask RCNN algorithm false positives from glomeruli detection in kidney whole slide images:
 #### Ground truth image:
-![GroundTruthKidney](https://github.iu.edu/llschers/Portfolio/blob/master/groundtruthwithoutline.jpg)
+![GroundTruthKidney](https://github.com/llschers/Portfolio/blob/master/groundtruthwithoutline.jpg)
 
 #### Mask RCNN binary segmentation output:
-![Segmentation](https://github.iu.edu/llschers/Portfolio/blob/master/maskoutputwithoutline.jpg)
+![Segmentation](https://github.com/llschers/Portfolio/blob/master/maskoutputwithoutline.jpg)
 
 #### False Positive Overlay:
-![FP](https://github.iu.edu/llschers/Portfolio/blob/master/FPOverlaywithoutline.jpg)
+![FP](https://github.com/llschers/Portfolio/blob/master/FPOverlaywithoutline.jpg)
 
 #### Overview of Visualization Process:
-![Overview](https://github.iu.edu/llschers/Portfolio/blob/master/FalsePositiveOverlayProcess.png)
+![Overview](https://github.com/llschers/Portfolio/blob/master/FalsePositiveOverlayProcess.png)
 
 ### Visualizations of high-dimentional ML output data:
 #### Pairplot
-![Pairplot](https://github.iu.edu/llschers/Portfolio/blob/master/snspairplotbyimage.png)
+![Pairplot](https://github.com/llschers/Portfolio/blob/master/snspairplotbyimage.png)
 
 #### UMAP
-![umap](https://github.iu.edu/llschers/Portfolio/blob/master/umapfasterRCNNwithLegend.png)
+![umap](https://github.com/llschers/Portfolio/blob/master/umapfasterRCNNwithLegend.png)
